@@ -1,0 +1,8 @@
+{
+  "name": "ionic-yozu",
+  "app_id": "9b34b6a5",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
